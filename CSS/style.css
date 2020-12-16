@@ -14,7 +14,6 @@
             margin: 0 auto;
             text-align: center;
             margin-top: 50px;
-            width: 580px;
         }
 
         .h1LowFontWeight {
@@ -26,6 +25,7 @@
             width: 70vw;
             margin-top: 50px;
             display: flex;
+            flex-wrap: wrap;
             justify-content: center;
         }
 
